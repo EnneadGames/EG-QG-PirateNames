@@ -14,7 +14,7 @@ Contains 4 x d100 tables, with 2 for first names (Female and male), a nickname a
 
 To install this module automatically, copy this link 
 
-`https://raw.githubusercontent.com/EnneadGames/EG-QG-Artefact-Name/main/module.json`
+`https://github.com/EnneadGames/EG-QG-PirateNames/blob/main/module.json`
 
 Paste into the box in the "Install Modules" section
 
