@@ -29,10 +29,13 @@
     {
       "name": "macros",
       "label": "EG-Quick Gen-Pirate Names",
-      "path": "acks/macros.db",
+      "path": "packs/macros.db",
       "entity": "Macro",
       "type": "Macro"
     }
+  ],
+  "esmodules": [
+    "./scripts/init.js"
   ],
   "dependencies": [],
   "url": "https://github.com/EnneadGames/EG-QG-PirateNames",
