@@ -15,27 +15,24 @@
     {
       "name": "journals",
       "label": "EG-Quick Gen-Pirate Names",
-      "path": "/packs/journals.db",
+      "path": "packs/journals.db",
       "entity": "JournalEntry",
       "type": "JournalEntry"
     },
     {
       "name": "rolltables",
       "label": "EG-Quick Gen-Pirate Names",
-      "path": "/packs/rolltables.db",
+      "path": "packs/rolltables.db",
       "entity": "RollTable",
       "type": "RollTable"
     },
     {
       "name": "macros",
       "label": "EG-Quick Gen-Pirate Names",
-      "path": "/packs/macros.db",
+      "path": "acks/macros.db",
       "entity": "Macro",
       "type": "Macro"
     }
-  ],
-  "esmodules": [
-    "./scripts/init.js"
   ],
   "dependencies": [],
   "url": "https://github.com/EnneadGames/EG-QG-PirateNames",
