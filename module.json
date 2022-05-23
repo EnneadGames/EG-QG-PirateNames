@@ -40,6 +40,6 @@
   "dependencies": [],
   "url": "https://github.com/EnneadGames/EG-QG-PirateNames",
   "manifest": "https://raw.githubusercontent.com/EnneadGames/EG-QG-PirateNames/main/module.json",
-  "download": "https://github.com/EnneadGames/EG-QG-PirateNames/archive/refs/tags/1.0.zip",
+  "download": "https://github.com/EnneadGames/EG-QG-PirateNames/releases/download/1.0/EG-QG-PirateNames-1.0.1.zip",
   "manifestPlusVersion": "1.2.0"
 }
